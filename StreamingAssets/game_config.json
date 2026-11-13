@@ -1,0 +1,26 @@
+{
+  "speciesName": "Marmoset (Callithrix)",
+  "shading": "toon",
+  "outline": false,
+  "outlineWidth": 0.02,
+  "faceYaw": 90,
+  "startOrthographic": true,
+  "useSandTray": true,
+  "spawnMode": "sand",
+  "allowTurning": true,
+  "spawnRotations": true,
+  "turnLimitDegrees": 90,
+  "snapRadiusFraction": 0.2,
+  "rotationTolerance": 25,
+  "defaultDifficulty": 1,
+  "excludeBones": [ "Lmaxilloturbinal" ],
+  "defaultBoneColor": "#E8E2D0",
+  "boneColors": [
+    { "bone": "Mandible", "color": "#C9B38A" }
+  ],
+  "difficulties": [
+    { "name": "Easy", "showGhost": true, "useBoneColors": true },
+    { "name": "Normal", "showGhost": true, "useBoneColors": true },
+    { "name": "Hard", "showGhost": false, "useBoneColors": false }
+  ]
+}
